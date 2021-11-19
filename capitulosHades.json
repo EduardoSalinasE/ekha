@@ -1,0 +1,20 @@
+[
+{"type":"header","version":"4.9.5","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"id16730240_saintseiya"},
+{"type":"table","name":"capitulosHades","database":"id16730240_saintseiya","data":
+[
+{"numeroCap":"1","nomCap":"Cruce en el rio aqueronte","fechaEstreno":"17\/12\/2005","duracion":"24:50"},
+{"numeroCap":"2","nomCap":"La corte del silencio","fechaEstreno":"17\/12\/2005","duracion":"23:10"},
+{"numeroCap":"3","nomCap":"Orfeo!, el caballero legendario","fechaEstreno":"21\/01\/2006","duracion":"23:58"},
+{"numeroCap":"4","nomCap":"Orfeo!, el triste requiem","fechaEstreno":"21\/01\/2006","duracion":"24:10"},
+{"numeroCap":"5","nomCap":"Hades!, la sorprendente pocesion del miedo","fechaEstreno":"18\/02\/2006","duracion":"24:15"},
+{"numeroCap":"6","nomCap":"La violenta batalla, el camino hacia Judeca","fechaEstreno":"18\/02\/206","duracion":"23:40"},
+{"numeroCap":"7","nomCap":"El castigo divino, el gran eclipse","fechaEstreno":"15\/12\/2006","duracion":"25:02"},
+{"numeroCap":"8","nomCap":"Ikki!, el golpe de la tristeza","fechaEstreno":"15\/12\/2006","duracion":"24:10"},
+{"numeroCap":"9","nomCap":"Atena arriesga su vida","fechaEstreno":"19\/01\/2007","duracion":"23:59"},
+{"numeroCap":"10","nomCap":"Desesperacion!, el muro de los lamentos","fechaEstreno":"19\/01\/2007","duracion":"23:49"},
+{"numeroCap":"11","nomCap":"Reunanse armaduras doradas","fechaEstreno":"16\/02\/2007","duracion":"24:00"},
+{"numeroCap":"12","nomCap":"Adios caballeros dorados","fechaEstreno":"16\/02\/2007","duracion":"24:30"}
+]
+}
+]
