@@ -1,0 +1,13 @@
+[
+{"type":"header","version":"5.1.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"saintseiya"},
+{"type":"table","name":"personajes","database":"saintseiya","data":
+[
+{"idPersonaje":"6","constelacion":"Pegaso","edad":"13","nacionalidad":"Japones","imagen":"seiya-imagen.png","nombrePersonaje":"Seiya"},
+{"idPersonaje":"7","constelacion":"Cisne","edad":"14","nacionalidad":"Rusia","imagen":"hyoga - imagen.png","nombrePersonaje":"Hyoga"},
+{"idPersonaje":"8","constelacion":"Andromeda","edad":"13","nacionalidad":"japones","imagen":"shun- imagen.png","nombrePersonaje":"Shun"},
+{"idPersonaje":"9","constelacion":"Dragon","edad":"14","nacionalidad":"Japones","imagen":"shiryu-imagen.jpg","nombrePersonaje":"Shiryu"},
+{"idPersonaje":"10","constelacion":"Fenix","edad":"16","nacionalidad":"Japones","imagen":"fenix-imagen.jpg","nombrePersonaje":"Ikki"}
+]
+}
+]
