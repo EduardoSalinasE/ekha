@@ -1,7 +1,4 @@
-[
-{"type":"header","version":"4.9.5","comment":"Export to JSON plugin for PHPMyAdmin"},
-{"type":"database","name":"id16730240_saintseiya"},
-{"type":"table","name":"capitulosHades","database":"id16730240_saintseiya","data":
+
 [
 {"numeroCap":"1","nomCap":"Cruce en el rio aqueronte","fechaEstreno":"17\/12\/2005","duracion":"24:50"},
 {"numeroCap":"2","nomCap":"La corte del silencio","fechaEstreno":"17\/12\/2005","duracion":"23:10"},
@@ -16,5 +13,4 @@
 {"numeroCap":"11","nomCap":"Reunanse armaduras doradas","fechaEstreno":"16\/02\/2007","duracion":"24:00"},
 {"numeroCap":"12","nomCap":"Adios caballeros dorados","fechaEstreno":"16\/02\/2007","duracion":"24:30"}
 ]
-}
-]
+
