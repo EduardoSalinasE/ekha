@@ -1,0 +1,8 @@
+[
+  {"idPersonaje":"1","nombrePersonaje":"Eduardo","constelacion":"Aries","descripcion":"Este Caballero tiene fuerza para controlar la mente"},
+  {"idPersonaje":"2","nombrePersonaje":"Kevin","constelacion":"Acuario","descripcion":"Este Caballero puede hacer helado"},
+  {"idPersonaje":"3","nombrePersonaje":"Harold","constelacion":"Acuario","descripcion":"Caballero con el poder de crear nieve"},
+  {"idPersonaje":"4","nombrePersonaje":"Antony","constelacion":"Virgo","descripcion":"Este caballero es muy misterioso y come mucho"},
+  {"idPersonaje":"5","nombrePersonaje":"Luis","constelacion":"Sagitario","descripcion":"Caballero que brilla como el sol mismo, puede cocinar"},
+  {"idPersonaje":"6","nombrePersonaje":"Steven","constelacion":"Tauro","descripcion":"Este caballero le gusta el free fire"}
+]
