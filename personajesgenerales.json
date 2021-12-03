@@ -1,7 +1,4 @@
-[
-{"type":"header","version":"5.1.1","comment":"Export to JSON plugin for PHPMyAdmin"},
-{"type":"database","name":"saintseiya"},
-{"type":"table","name":"personajesgenerales","database":"saintseiya","data":
+
 [
 {"idPersonaje":"1","nombrePersonaje":"Mu","constelacion":"Aries","descripcion":"Caballero de Athena","imagen":"mu.png","idCaballero":"1"},
 {"idPersonaje":"2","nombrePersonaje":"Aldebaran","constelacion":"Tauro","descripcion":"Caballero de Athena","imagen":"aldebaran.png","idCaballero":"1"},
@@ -30,5 +27,5 @@
 {"idPersonaje":"25","nombrePersonaje":"Hypnos","constelacion":"Dios menor del Olimpo","descripcion":"Dios del sue... zzzzzz","imagen":"hypnos.png","idCaballero":"4"},
 {"idPersonaje":"26","nombrePersonaje":"Thanatos","constelacion":"Dios menor del Olimpo","descripcion":"Dios de la muerte, de dios menor no tiene nada. No tengo nada que decir ante el grandioso Thanatos. ","imagen":"thana.png","idCaballero":"4"}
 ]
-}
-]
+
+
