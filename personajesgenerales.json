@@ -1,0 +1,34 @@
+[
+{"type":"header","version":"5.1.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"saintseiya"},
+{"type":"table","name":"personajesgenerales","database":"saintseiya","data":
+[
+{"idPersonaje":"1","nombrePersonaje":"Mu","constelacion":"Aries","descripcion":"Caballero de Athena","imagen":"mu.png","idCaballero":"1"},
+{"idPersonaje":"2","nombrePersonaje":"Aldebaran","constelacion":"Tauro","descripcion":"Caballero de Athena","imagen":"aldebaran.png","idCaballero":"1"},
+{"idPersonaje":"3","nombrePersonaje":"Saga","constelacion":"Geminis","descripcion":"Caballero de Athena","imagen":"geminis.png","idCaballero":"1"},
+{"idPersonaje":"4","nombrePersonaje":"Macara Mortal","constelacion":"Cancer","descripcion":"Caballero de Athena","imagen":"masacara.png","idCaballero":"1"},
+{"idPersonaje":"5","nombrePersonaje":"Aoria ","constelacion":"Leo","descripcion":"Caballero de Athena","imagen":"aioria.png","idCaballero":"1"},
+{"idPersonaje":"6","nombrePersonaje":"Shaka","constelacion":"Virgo","descripcion":"Caballero de Athena","imagen":"shaka.png","idCaballero":"1"},
+{"idPersonaje":"7","nombrePersonaje":"Dohko","constelacion":"Libra","descripcion":"Caballero de Athena","imagen":"dohko.png","idCaballero":"1"},
+{"idPersonaje":"8","nombrePersonaje":"Milo","constelacion":"Escorpio","descripcion":"Caballero de Athena","imagen":"milo.png","idCaballero":"1"},
+{"idPersonaje":"9","nombrePersonaje":"Aioros","constelacion":"Sagitario","descripcion":"Caballero de Athena","imagen":"aioros.png","idCaballero":"1"},
+{"idPersonaje":"10","nombrePersonaje":"Shura","constelacion":"Capricornio","descripcion":"Caballero de Athena","imagen":"shura.png","idCaballero":"1"},
+{"idPersonaje":"11","nombrePersonaje":"Camus","constelacion":"Acuario","descripcion":"Caballero de Athena","imagen":"camus.png","idCaballero":"1"},
+{"idPersonaje":"12","nombrePersonaje":"Afrodita","constelacion":"Piscis","descripcion":"Caballero de Athena","imagen":"afrodita.png","idCaballero":"1"},
+{"idPersonaje":"13","nombrePersonaje":"Kanon","constelacion":"Dragon Marino","descripcion":"General marino","imagen":"kanon.png","idCaballero":"2"},
+{"idPersonaje":"14","nombrePersonaje":"Sorrento","constelacion":"Sirena","descripcion":"General marino","imagen":"sorrento.png","idCaballero":"2"},
+{"idPersonaje":"15","nombrePersonaje":"Krishna","constelacion":"Crisaor","descripcion":"General marino","imagen":"krishna.png","idCaballero":"2"},
+{"idPersonaje":"16","nombrePersonaje":"Kasa","constelacion":"Lymneades","descripcion":"General marino","imagen":"kasa.png","idCaballero":"2"},
+{"idPersonaje":"17","nombrePersonaje":"Eo","constelacion":"Escila","descripcion":"General marino","imagen":"eo.png","idCaballero":"2"},
+{"idPersonaje":"18","nombrePersonaje":"Isaac","constelacion":"Kraken","descripcion":"General marino","imagen":"isaac.png","idCaballero":"2"},
+{"idPersonaje":"19","nombrePersonaje":"Minos","constelacion":"Grifo","descripcion":"Juez del inframundo","imagen":"minos.png","idCaballero":"3"},
+{"idPersonaje":"20","nombrePersonaje":"Aiacos","constelacion":"Garuda","descripcion":"Juez del inframundo","imagen":"aiacos.png","idCaballero":"3"},
+{"idPersonaje":"21","nombrePersonaje":"Radamanthys","constelacion":"Wivern","descripcion":"Juez del inframundo","imagen":"rada.png","idCaballero":"3"},
+{"idPersonaje":"22","nombrePersonaje":"Athena","constelacion":"Diosa del Olimpo","descripcion":"Diosa de la guerra y de la sabiduria, la paran secuestrando y es experta en dejar en la friendzone a","imagen":"athena.png","idCaballero":"4"},
+{"idPersonaje":"23","nombrePersonaje":"Hades","constelacion":"Dios del Olimpo","descripcion":"Dios del inframundo creador de los Campos Eliseos, tiene un raro odio hacia los humanos pero usa un ","imagen":"hadesito.png","idCaballero":"4"},
+{"idPersonaje":"24","nombrePersonaje":"Poseidon","constelacion":"Dios del Olimpo","descripcion":"Dios de los mares que inicia una guerra porque Athena lo mando a la friendzone y ademas se dejo mani","imagen":"pose.png","idCaballero":"4"},
+{"idPersonaje":"25","nombrePersonaje":"Hypnos","constelacion":"Dios menor del Olimpo","descripcion":"Dios del sue... zzzzzz","imagen":"hypnos.png","idCaballero":"4"},
+{"idPersonaje":"26","nombrePersonaje":"Thanatos","constelacion":"Dios menor del Olimpo","descripcion":"Dios de la muerte, de dios menor no tiene nada. No tengo nada que decir ante el grandioso Thanatos. ","imagen":"thana.png","idCaballero":"4"}
+]
+}
+]
