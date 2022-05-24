@@ -1,0 +1,22 @@
+[
+   {
+      "nombre": "Obi-Wan Kenobi",
+      "bando": "Jedi",
+      "foto": "obiwan.jpg"
+   },
+   {
+      "nombre": "Yoda",
+      "bando": "Jedi",
+      "foto": "yoda.jpg"
+   },
+   {
+      "nombre": "Darth Vader",
+      "bando": "Sith",
+      "foto": "vader.jpg"
+   },
+   {
+      "nombre": "Rey Skywalker",
+      "bando": "Jedi",
+      "foto": "rey.jpg"
+   }
+]
